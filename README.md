@@ -1,4 +1,6 @@
-## Hi there 👋
+<img src="https://github.com/yahyazaceria/yahyazaceria/blob/5e086dcb94734d3e2a761457d287b43881b341a0/turts.gif" width="120" height="120" align="center"> <img src="https://profile-counter.deno.dev/yahyazaceria/count.svg" alt="Key:: Visitor's Count" length="112" height="112" align="center"/>
+
+
 
 <!--
 **yahyazaceria/yahyazaceria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
